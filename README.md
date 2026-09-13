@@ -1,3 +1,5 @@
+![Overview of the setup](images/overview.png)
+
 # Backlooper
 
 A looper pedal that removes the need to think about when to start recording. Audio is captured continuously; press a button near the first beat of a bar and Backlooper loops the last N bars as if you had pressed it at the exact start.
